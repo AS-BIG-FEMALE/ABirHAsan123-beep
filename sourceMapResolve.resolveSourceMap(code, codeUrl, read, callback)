@@ -1,0 +1,47 @@
+const sourceMapResolve = require("source-map-resolve")
+const sourceMap = require("source-map")
+
+const readFile = util.promisify(fs.readFile)
+
+const code = [
+  "!function(){...}();",
+  "/*# sourceMappingURL=foo.js.map */"
+].join("\n")
+
+(async () => {
+  try {
+    const result = await sourceMapResolve.resolveSourceMap(code, "/js/foo.js", readFile)
+    result
+    // {
+    //   map: {file: "foo.js", mappings: "...", sources: ["/coffee/foo.coffee"], names: []},
+    //   url: "/js/foo.js.map",
+    //   sourcesRelativeTo: "/js/foo.js.map",
+    //   sourceMappingURL: "foo.js.map"
+    // }
+
+    const result = await sourceMapResolve.resolveSources(result.map, result.sourcesRelativeTo, readFile)
+    result
+    // {
+    //   sourcesResolved: ["/coffee/foo.coffee"],
+    //   sourcesContent: ["<contents of /coffee/foo.coffee>"]
+    // }
+
+    const result = await sourceMapResolve.resolve(code, "/js/foo.js", readFile)
+    result
+    // {
+    //   map: {file: "foo.js", mappings: "...", sources: ["/coffee/foo.coffee"], names: []},
+    //   url: "/js/foo.js.map",
+    //   sourcesRelativeTo: "/js/foo.js.map",
+    //   sourceMappingURL: "foo.js.map",
+    //   sourcesResolved: ["/coffee/foo.coffee"],
+    //   sourcesContent: ["<contents of /coffee/foo.coffee>"]
+    // }
+
+    result.map.sourcesContent = result.sourcesContent
+    const map = new sourceMap.sourceMapConsumer(result.map)
+    map.sourceContentFor("/coffee/foo.coffee")
+    // "<contents of /coffee/foo.coffee>"
+  } catch (error) {
+    notifyFailure(error)
+  }
+}())
