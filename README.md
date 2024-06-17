@@ -1,46 +1,19 @@
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|4.0  1| 📣            |
-|5.0  2| 📚            |
-|6.0  3| 🌟            |
-|7.0  4| 🌱            |
-|8.0  5| 💞            |
+LOCAL_PATH := $(call my-dir)
 
-# import {expect} from '@jest/globals';
+include $(CLEAR_VARS)
+LOCAL_MODULE := example
+LOCAL_SRC_FILES := example.cpp
+LOCAL_STATIC_LIBRARIES := libcxx
+LOCAL_LDLIBS := -llog
+include $(BUILD_SHARED_LIBRARY)
 
-function toBeWithinRange(actual, floor, ceiling) {
-  if (
-    typeof actual !== 'number' ||
-    typeof floor !== 'number' ||
-    typeof ceiling !== 'number'
-  ) {
-    throw new TypeError('These must be of type number!');
-  }
+include jni/libcxx/Android.mk
 
-  const pass = actual >= floor && actual <= ceiling;
-  if (pass) {
-    return {
-      message: () =>
-        `expected ${this.utils.printReceived(
-          actual,
-        )} not to be within range ${this.utils.printExpected(
-          `${floor} - ${ceiling}`,
-        )}`,
-      pass: true,
-    };
-  } else {
-    return {
-      message: () =>
-        `expected ${this.utils.printReceived(
-          actual,
-        )} to be within range ${this.utils.printExpected(
-          `${floor} - ${ceiling}`,
-        )}`,
-      pass: false,
-    };
-  }
-}
+# If you do not want to use libc++, link to system stdc++
+# so that you can at least call the new operator in your code
 
-expect.extend({
-  toBeWithinRange,
-});
+# include $(CLEAR_VARS)
+# LOCAL_MODULE := example
+# LOCAL_SRC_FILES := example.cpp
+# LOCAL_LDLIBS := -llog -lstdc++
+# include $(BUILD_SHARED_LIBRARY)
