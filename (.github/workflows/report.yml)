@@ -1,0 +1,20 @@
+name: Generate Report
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs weekly
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate GitHub Report
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const report = await github.rest.repos.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            });
+            console.log(report);
