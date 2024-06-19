@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xml:base="https://www.nist.gov/">
+  <channel>
+    <title>Taking Measure</title>
+    <link>https://www.nist.gov/</link>
+    <description>Taking Measure blog posts</description>
+    <language>en</language>
+    <atom:link href="https://www.nist.gov/blogs/taking-measure/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+  <title>Your Future Medications Could Be Personalized for You on a 3D Printer</title>
+  <link>https://www.nist.gov/blogs/taking-measure/your-future-medications-could-be-personalized-you-3d-printer</link>
+  <description>  Your future medications could be made on a 3D printer, and a NIST researcher is working to make sure that process is safe.
+
+</description>
+  <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Lawrence Goodman</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1849446</guid>
+  </item>
+<item>
+  <title>NIST Researchers Measure Greenhouse Gases During the Solar Eclipse</title>
+  <link>https://www.nist.gov/blogs/taking-measure/nist-researchers-measure-greenhouse-gases-during-solar-eclipse</link>
+  <description>  Check out some of the things happening at NIST during the past few months through the lens of social media.
+
+</description>
+  <pubDate>Wed, 05 Jun 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Alex Boss</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1847936</guid>
+  </item>
+<item>
+  <title>One of NIST’s Most Prolific Inventors Is Also Our Director — and She’s Still an Inventor at Heart</title>
+  <link>https://www.nist.gov/blogs/taking-measure/one-nists-most-prolific-inventors-also-our-director-and-shes-still-inventor</link>
+  <description>  Before she was the director of NIST, Laurie E. Locascio invented materials that make us healthier.
+
+</description>
+  <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="true">https://www.nist.gov/node/1848406</guid>
+  </item>
+<item>
+  <title>From Trash to Cash: How AI and Machine Learning Can Help Make Recycling Less Expensive for Local Governments</title>
+  <link>https://www.nist.gov/blogs/taking-measure/trash-cash-how-ai-and-machine-learning-can-help-make-recycling-less-expensive</link>
+  <description>  Can AI help us recycle better? A NIST researcher is working to make that happen.
+
+</description>
+  <pubDate>Wed, 15 May 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Bradley Sutliff </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1847511</guid>
+  </item>
+<item>
+  <title>NIST Research Is Setting the Standard to Help Buildings Withstand Tornadoes</title>
+  <link>https://www.nist.gov/blogs/taking-measure/nist-research-setting-standard-help-buildings-withstand-tornadoes</link>
+  <description>  Two NIST researchers have been recognized for their work to create new standards for buildings that can better withstand tornadoes.
+
+</description>
+  <pubDate>Wed, 08 May 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Brian Gutierrez</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1847671</guid>
+  </item>
+<item>
+  <title>NIST Physicist’s Once Obscure Work Is Now Helping Researchers Learn About the Origins of the Universe</title>
+  <link>https://www.nist.gov/blogs/taking-measure/nist-physicists-once-obscure-work-now-helping-researchers-learn-about-origins</link>
+  <description>  A NIST researcher worked in obscurity for years — until his work was needed to help us understand the origins of our universe.
+
+</description>
+  <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Ron Cowen</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1846011</guid>
+  </item>
+<item>
+  <title>Measuring Microplastics: To Solve the Problem, We Have to Understand and Measure It</title>
+  <link>https://www.nist.gov/blogs/taking-measure/measuring-microplastics-solve-problem-we-have-understand-and-measure-it</link>
+  <description>  My friends sometimes jokingly ask me, “How many microplastics do you think I consumed this week?” Unfortunately, the answer is not zero.
+
+</description>
+  <pubDate>Wed, 17 Apr 2024 12:00:00 +0000</pubDate>
+  <dc:creator>George Caceres</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1842661</guid>
+  </item>
+<item>
+  <title>Demystifying Quantum: It’s Here, There and Everywhere</title>
+  <link>https://www.nist.gov/blogs/taking-measure/demystifying-quantum-its-here-there-and-everywhere</link>
+  <description>  It’s time to celebrate World Quantum Day! But what is quantum, anyway? A NIST physicist answers your questions.
+
+</description>
+  <pubDate>Wed, 10 Apr 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Tara Fortier</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1843771</guid>
+  </item>
+<item>
+  <title>Listening to the Data: How a NIST Tool Helps Labs Worldwide Harmonize Measurements</title>
+  <link>https://www.nist.gov/blogs/taking-measure/listening-data-how-nist-tool-helps-labs-worldwide-harmonize-measurements</link>
+  <description>  In a global economy, measurements need to be reliably comparable across the world. But how do we ensure that actually happens?
+
+</description>
+  <pubDate>Wed, 03 Apr 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Antonio Possolo</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1843026</guid>
+  </item>
+<item>
+  <title>The Sound of Soot: How a Strange Noise Can Keep Us Safer From Fires</title>
+  <link>https://www.nist.gov/blogs/taking-measure/sound-soot-how-strange-noise-can-keep-us-safer-fires</link>
+  <description>  Where there’s smoke, there’s fire. Where there’s fire, there is soot. And where there is soot, there is … noise.
+
+</description>
+  <pubDate>Wed, 27 Mar 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Amy Mensch, Ryan Falkenstein-Smith </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1840781</guid>
+  </item>
+<item>
+  <title>From Bookmobiles to Big Data, How Library Scientists Make Information Accessible to All</title>
+  <link>https://www.nist.gov/blogs/taking-measure/bookmobiles-big-data-how-library-scientists-make-information-accessible-all</link>
+  <description>  During Women’s History Month, a NIST librarian looks back at the librarian who brought us the bookmobile — back when it brought books by horse and buggy.
+
+</description>
+  <pubDate>Wed, 20 Mar 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Kathryn Miller</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1840496</guid>
+  </item>
+<item>
+  <title>Houston, We Have the Engine Remnants: How My Lab Pieced Together a Forgotten Part of an Apollo Rocket</title>
+  <link>https://www.nist.gov/blogs/taking-measure/houston-we-have-engine-remnants-how-my-lab-pieced-together-forgotten-part</link>
+  <description>  Like many people, I had dreams of flying into space as an astronaut when I was a child. That interest in aerospace and space exploration has continued throughout my life.
+
+</description>
+  <pubDate>Wed, 13 Mar 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Adam Creuziger</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1841561</guid>
+  </item>
+<item>
+  <title>Measurement in the Movies</title>
+  <link>https://www.nist.gov/blogs/taking-measure/measurement-movies</link>
+  <description>  The nominees are in … for the best use of measurement in a movie.
+
+</description>
+  <pubDate>Wed, 06 Mar 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Ben P. Stein</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1840401</guid>
+  </item>
+<item>
+  <title>Weighing Your Purchases: How New Laws May Help You Become a Savvier Online Shopper</title>
+  <link>https://www.nist.gov/blogs/taking-measure/weighing-your-purchases-how-new-laws-may-help-you-become-savvier-online-shopper</link>
+  <description>  When you buy something by weight or volume, you want to get what you pay for. And we’re helping to make sure that happens — whether you shop online or in a store.
+
+</description>
+  <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+  <dc:creator>John McGuire</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1838941</guid>
+  </item>
+<item>
+  <title>Leap Day Is Here: It Doesn’t Have to Be Your Standard Weekday</title>
+  <link>https://www.nist.gov/blogs/taking-measure/leap-day-here-it-doesnt-have-be-your-standard-weekday</link>
+  <description>  We get an extra day this year, but why do we need a leap day every four years on Feb. 29? It all comes down to standards.
+
+</description>
+  <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Andrew Novick</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1840236</guid>
+  </item>
+<item>
+  <title>From Pokémon to Physics: My Journey of Perseverance Into Research</title>
+  <link>https://www.nist.gov/blogs/taking-measure/pokemon-physics-my-journey-perseverance-research</link>
+  <description>  A childhood love of video games led Samuel Márquez Gonzalez to a career in science and a NIST internship program for early career researchers.
+
+</description>
+  <pubDate>Wed, 14 Feb 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Samuel Márquez González</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1837046</guid>
+  </item>
+<item>
+  <title>Henry Moseley: A Patriotic Scientist Who Changed the Periodic Table — and Then Went Off to War</title>
+  <link>https://www.nist.gov/blogs/taking-measure/henry-moseley-patriotic-scientist-who-changed-periodic-table-and-then-went-war</link>
+  <description>  At a young age, physicist Henry Moseley changed the periodic table of the elements — before dying in a bloody World War I battle.
+
+</description>
+  <pubDate>Wed, 07 Feb 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Miral Dizdaroglu</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1836581</guid>
+  </item>
+<item>
+  <title>A Polymer Scientist Wrestles — Literally and Figuratively — With the Frustrations of Plastic Packaging</title>
+  <link>https://www.nist.gov/blogs/taking-measure/polymer-scientist-wrestles-literally-and-figuratively-frustrations-plastic</link>
+  <description>  If you’ve resolved to be a more eco-conscious consumer this year, learn about how NIST’s circular economy lead thinks about plastic packaging in our everyday lives.
+
+</description>
+  <pubDate>Wed, 24 Jan 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Kate Beers</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1834456</guid>
+  </item>
+<item>
+  <title>Riding the Wind: How Applied Geometry and Artificial Intelligence Can Help Us Win the Renewable Energy Race</title>
+  <link>https://www.nist.gov/blogs/taking-measure/riding-wind-how-applied-geometry-and-artificial-intelligence-can-help-us-win</link>
+  <description>  A NIST researcher is using math and AI to help design an optimal wind turbine.
+
+</description>
+  <pubDate>Wed, 10 Jan 2024 12:00:00 +0000</pubDate>
+  <dc:creator>Zach Grey</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1832876</guid>
+  </item>
+<item>
+  <title>From Diamonds in Your Computer to Safer Medications, NIST Researchers Look at What’s Next for 2024 and Beyond</title>
+  <link>https://www.nist.gov/blogs/taking-measure/diamonds-your-computer-safer-medications-nist-researchers-look-whats-next-2024</link>
+  <description>  Our up-and-coming researchers look ahead to 2024 and beyond — and tell us how their work will impact the world.
+
+</description>
+  <pubDate>Wed, 03 Jan 2024 12:00:00 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="true">https://www.nist.gov/node/1833431</guid>
+  </item>
+<item>
+  <title>Auld Lang ‘Time’: One of the Country’s Timekeepers Makes Sure We Ring in 2024 at Just the Right Second</title>
+  <link>https://www.nist.gov/blogs/taking-measure/auld-lang-time-one-countrys-timekeepers-makes-sure-we-ring-2024-just-right</link>
+  <description>  As you prepare to watch the ball drop or pop champagne on New Year’s Eve, we’ll be keeping an eye on the clock — just as we always do.
+
+</description>
+  <pubDate>Thu, 28 Dec 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Andrew Novick</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1831941</guid>
+  </item>
+<item>
+  <title>A Scientific Christmas Tale</title>
+  <link>https://www.nist.gov/blogs/taking-measure/scientific-christmas-tale</link>
+  <description>  ’Twas the night before Christmas; NIST staff had gone home. Our director was left to reflect all alone. She thought about NIST and the breadth of its work, from AI to fire to even the quark.
+
+</description>
+  <pubDate>Tue, 19 Dec 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Robin Materese</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1832486</guid>
+  </item>
+<item>
+  <title>Standing Up for Scientific Integrity: A Q&amp;amp;A With Writer-Director José Ricardo García on the New Film ‘The AD-X2 Controversy’</title>
+  <link>https://www.nist.gov/blogs/taking-measure/standing-scientific-integrity-qa-writer-director-jose-ricardo-garcia-new-film</link>
+  <description>  In the 1950s, scientific integrity was put into question by a packet of salt. That controversy is the center of a new NIST film.
+
+</description>
+  <pubDate>Wed, 13 Dec 2023 12:00:00 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="true">https://www.nist.gov/node/1832866</guid>
+  </item>
+<item>
+  <title>Fellowship and Fearlessness: Carrying On the Legacy of Rear Admiral Grace Hopper</title>
+  <link>https://www.nist.gov/blogs/taking-measure/fellowship-and-fearlessness-carrying-legacy-rear-admiral-grace-hopper</link>
+  <description>  On her birthday, we look at the life of Rear Admiral Grace Hopper — a trailblazing woman in computing — and how we can continue to carry on her legacy.
+
+</description>
+  <pubDate>Wed, 06 Dec 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Carolyn Rowland, Kamie Roberts </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1830816</guid>
+  </item>
+<item>
+  <title>I’m Using Measurement Science to Test Antibodies and Protect Us From Viruses</title>
+  <link>https://www.nist.gov/blogs/taking-measure/im-using-measurement-science-test-antibodies-and-protect-us-viruses</link>
+  <description>  Imagine if for the next dangerous virus, we could quickly and easily test everyone’s levels of defenses — known as antibodies.
+
+</description>
+  <pubDate>Wed, 29 Nov 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Jerilyn Izac </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1829276</guid>
+  </item>
+<item>
+  <title>Minimizing Harms and Maximizing the Potential of Generative AI</title>
+  <link>https://www.nist.gov/blogs/taking-measure/minimizing-harms-and-maximizing-potential-generative-ai</link>
+  <description>  As generative AI tools like ChatGPT become more commonly used, we must think carefully about the impact on people and society.
+
+</description>
+  <pubDate>Mon, 20 Nov 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Elham Tabassi </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1830471</guid>
+  </item>
+<item>
+  <title>The Highs and Lows of Studying the Aftermath of One of Turkey’s Deadliest Earthquakes</title>
+  <link>https://www.nist.gov/blogs/taking-measure/highs-and-lows-studying-aftermath-one-turkeys-deadliest-earthquakes</link>
+  <description>  Our goal at NIST is to not only document and learn from disasters, but to also spur innovation and make recommendations to help lessen the impact of the next disaster.
+
+</description>
+  <pubDate>Wed, 15 Nov 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Matthew Speicher</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1828411</guid>
+  </item>
+<item>
+  <title>Think You Know What a Second Is? It Will Likely Change in the Next Decade.</title>
+  <link>https://www.nist.gov/blogs/taking-measure/think-you-know-what-second-it-will-likely-change-next-decade</link>
+  <description>  As the world has modernized and our pace of life has increased, our relationship to time has changed.
+
+</description>
+  <pubDate>Wed, 08 Nov 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Tara Fortier</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1828421</guid>
+  </item>
+<item>
+  <title>There Will Be (Precisely Measured) Blood: A Haunted House Tour Through NIST’s Spookiest Reference Materials</title>
+  <link>https://www.nist.gov/blogs/taking-measure/there-will-be-precisely-measured-blood-haunted-house-tour-through-nists</link>
+  <description>  This spooky season, join us for a haunted house tour of the scariest standard reference materials in our labs.
+
+</description>
+  <pubDate>Fri, 27 Oct 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Megan King</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1826671</guid>
+  </item>
+<item>
+  <title>Stay Safe and Secure Online During Cybersecurity Awareness Month — and All Year</title>
+  <link>https://www.nist.gov/blogs/taking-measure/stay-safe-and-secure-online-during-cybersecurity-awareness-month-and-all-year</link>
+  <description>  For advice you can use about online security and privacy, check out these tips from NIST experts.
+
+</description>
+  <pubDate>Wed, 25 Oct 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Chad Boutin</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1828496</guid>
+  </item>
+<item>
+  <title>My Research Can Help Protect You — and Your Company — From Hackers Trying to Steal Your Money and Information</title>
+  <link>https://www.nist.gov/blogs/taking-measure/my-research-can-help-protect-you-and-your-company-hackers-trying-steal-your</link>
+  <description>  During Cybersecurity Awareness Month, learn how NIST is helping organizations improve their phishing training - keeping all of our information safer.
+
+</description>
+  <pubDate>Wed, 18 Oct 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Shanée Dawkins</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1826936</guid>
+  </item>
+<item>
+  <title>Microplastics Mystery: Sampling Airborne Microplastics at a Recycling Facility</title>
+  <link>https://www.nist.gov/blogs/taking-measure/microplastics-mystery-sampling-airborne-microplastics-recycling-facility</link>
+  <description>  During National Hispanic Heritage Month, a NIST researcher shares how her upbringing in Puerto Rico inspired her to study air quality.
+
+</description>
+  <pubDate>Wed, 11 Oct 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Diana Ortiz-Montalvo</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1827246</guid>
+  </item>
+<item>
+  <title>Reaching for the Stars: My Summer Internship Learning About Spectroscopy in Space and on Earth</title>
+  <link>https://www.nist.gov/blogs/taking-measure/reaching-stars-my-summer-internship-learning-about-spectroscopy-space-and-earth</link>
+  <description>  As a summer high school intern at NIST, I got to take a deep dive into one of the ways scientists study space — the absorption and emission of light by matter, known as spectroscopy.
+
+</description>
+  <pubDate>Wed, 04 Oct 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Isabelle Rivera</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1824081</guid>
+  </item>
+<item>
+  <title>Up, Up and Away: How NIST Research Helped Improve Weather Balloon Forecasting</title>
+  <link>https://www.nist.gov/blogs/taking-measure/and-away-how-nist-research-helped-improve-weather-balloon-forecasting</link>
+  <description>  A key component of the weather balloon — which helps meteorologists forecast the weather every day — was developed at NIST in the 1930s.
+
+</description>
+  <pubDate>Wed, 27 Sep 2023 12:00:00 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="true">https://www.nist.gov/node/1822301</guid>
+  </item>
+<item>
+  <title>How We Studied DNA Damage in Cooked Food — and What It Might Mean for Our Health</title>
+  <link>https://www.nist.gov/blogs/taking-measure/how-we-studied-dna-damage-cooked-food-and-what-it-might-mean-our-health</link>
+  <description>  When you eat plants or meat, you’re also eating a tiny amount of that plant or animal’s DNA. But what happens to that plant or animal DNA when you cook the food before eating it?
+
+</description>
+  <pubDate>Wed, 20 Sep 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Miral Dizdaroglu</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1822351</guid>
+  </item>
+<item>
+  <title>Measuring the Accuracy of PCR Tests Can Improve Health Care Beyond COVID-19</title>
+  <link>https://www.nist.gov/blogs/taking-measure/measuring-accuracy-pcr-tests-can-improve-health-care-beyond-covid-19</link>
+  <description>  Many of us have taken a COVID-19 test. But, have you ever wondered, after your sample goes off to a lab, exactly how they arrive at a positive or negative result?
+
+</description>
+  <pubDate>Wed, 13 Sep 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Robert DeJaco</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1823786</guid>
+  </item>
+<item>
+  <title>Agents of Contrast, Software Runaway Hit, Our Early Universe: A Sample of Stories on NIST Social Media</title>
+  <link>https://www.nist.gov/blogs/taking-measure/agents-contrast-software-runaway-hit-our-early-universe-sample-stories-nist</link>
+  <description>  Curious? It’s time to get you caught up on a few of the summer happenings at NIST.
+
+</description>
+  <pubDate>Wed, 06 Sep 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Riley Wilson</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1821686</guid>
+  </item>
+<item>
+  <title>I’m Helping My Garden Vegetables — and My Students — Bloom Where They Are Planted</title>
+  <link>https://www.nist.gov/blogs/taking-measure/im-helping-my-garden-vegetables-and-my-students-bloom-where-they-are-planted</link>
+  <description>  Middle school is the perfect time to plant the seed for a child to grow a lifelong love of science.
+
+</description>
+  <pubDate>Wed, 30 Aug 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Kandice Taylor </dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1821311</guid>
+  </item>
+<item>
+  <title>Protecting People From Plumbing Pathogens Is Personal to Me</title>
+  <link>https://www.nist.gov/blogs/taking-measure/protecting-people-plumbing-pathogens-personal-me</link>
+  <description>  Pathogens can get into our water through plumbing and are especially dangerous for people with compromised immune systems.
+
+</description>
+  <pubDate>Wed, 16 Aug 2023 12:00:00 +0000</pubDate>
+  <dc:creator>Alshae’ Logan-Jackson</dc:creator>
+  <guid isPermaLink="true">https://www.nist.gov/node/1819291</guid>
+  </item>
+<item>
+  <title>A Summer of Science: NIST Interns’ Stories of Their Time in the Lab</title>
+  <link>https://www.nist.gov/blogs/taking-measure/summer-science-nist-interns-stories-their-time-lab</link>
+  <description>  From measuring UV light to working on virtual reality software, a summer at NIST is not your average internship.
+
+</description>
+  <pubDate>Wed, 02 Aug 2023 12:00:00 +0000</pubDate>
+  <dc:creator/>
+  <guid isPermaLink="true">https://www.nist.gov/node/1819281</guid>
+  </item>
+
+  </channel>
+</rss>
