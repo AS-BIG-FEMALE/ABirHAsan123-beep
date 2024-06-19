@@ -1,0 +1,5 @@
+uses: aliyun/setup-aliyun-cli-action@v1-beta
+   with: git:github.com/ABirHAsan123-beep/Hello-world.git
+# The version of Aliyun CLI
+version: # optional, default is latest
+echo "# Hello-world" >> README.md
