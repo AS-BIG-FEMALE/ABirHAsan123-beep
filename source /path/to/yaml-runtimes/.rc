@@ -1,0 +1,413 @@
+<body>"<!--?xml version="1.0" encoding="utf-8"?-->
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.nist.gov/">
+  <channel>
+    <title>News and Events Feed by Topic</title>
+    <link>https://www.nist.gov/topics
+    <description>
+    <language>en</language>
+    <atom:link href="https://www.nist.gov/news-events/Advanced%20communications/rss.xml" rel="self" type="application/rss+xml">
+
+    <item>
+  <title>NIST Publishes Automated Vehicles Workshop Report</title>
+  <link>https://www.nist.gov/news-events/news/2024/06/nist-publishes-automated-vehicles-workshop-report
+  <description>  NIST held a virtual workshop in September 2023 on Standards and Performance Metrics for On-Road Automated Vehicles, attracting over 600 attendees from industry, academia, and government. NIST has now published the workshop report, NIST Internal
+
+</description>
+  <pubdate>Tue, 04 Jun 2024 12:00:00 +0000</pubdate>
+    <dc:creator>David A. Wollman</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1850786</guid>
+    </item>
+<item>
+  <title>NIST Begins Cybersecurity Project for Water and Wastewater Operations</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nist-begins-cybersecurity-project-water-and-wastewater-operations
+  <description>  NIST researcher CheeYee Tang, with MITRE staff, have started a project to address the cybersecurity needs for water and wastewater utilities. Through development of a reference design and example solutions using commercially available products, the
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849271</guid>
+    </item>
+<item>
+  <title>NIST Hosts Speaker on Building Inclusive Infrastructures in Academia</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nist-hosts-speaker-building-inclusive-infrastructures-academia
+  <description>  In an enlightening and engaging session organized by the Belonging Initiative of NISTâ€™s Smart Connected Systems Division, Dr. Sera Linardi (University of Pittsburgh; 2024 Siegel Faculty Impact Fellow at Cornell Tech) explored the possibilities and
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849266</guid>
+    </item>
+<item>
+  <title>NIST Engineer Presents the Blood, STEP, and Tears Involved in Digital Manufacturing Standards</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nist-engineer-presents-blood-step-and-tears-involved-digital-manufacturing
+  <description>  In March 2024, NISTâ€™s Rosemary Astheimer presented efforts to capture and leverage Product Manufacturing Information (PMI) in ISO 10303, referred to as STEP (Standard for Exchange of Product model data), at the 3D Collaboration and Interoperability
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849261</guid>
+    </item>
+<item>
+  <title>NIST Researchers Give Webinar on Manufacturing Cybersecurity Project to Manufacturing Sector Community of Interest</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nist-researchers-give-webinar-manufacturing-cybersecurity-project
+  <description>  NIST researchers Timothy Zimmerman, Michael Pease, and Michael Powell, with MITRE staff, hosted a webinar with over 100 participants regarding their project, Responding to and Recovering from a Cyber Attack: Cybersecurity for the Manufacturing Sector
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849256</guid>
+    </item>
+<item>
+  <title>NIST&amp;#039;s Industrial Wireless Systems Team Publishes Paper on Analytical Evaluation for Software-based TSN in Industrial Wi-Fi Networks</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nists-industrial-wireless-systems-team-publishes-paper-analytical
+  <description>  NIST's Industrial Wireless Systems teamâ€™s paper, titled â€œAn Analytical Evaluation for Software-based TSN in Industrial Wi-Fi Networks,â€ was accepted to the 7 th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2024). The
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849251</guid>
+    </item>
+<item>
+  <title>NIST&amp;#039;s Industrial Wireless Systems Team Publishes Paper on the Impact of TIG Welding Interference on Industrial Wi-Fi Networks</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/nists-industrial-wireless-systems-team-publishes-paper-impact-tig-welding
+  <description>  NIST's Industrial Wireless Systems teamâ€™s paper, titled â€œOn the Impact of TIG Welding Interference on Industrial Wi-Fi Networks: Modeling of Empirical Data and Analytical Studying of Coexistence,â€ was accepted to the 7 th IEEE International
+
+</description>
+  <pubdate>Mon, 01 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1849246</guid>
+    </item>
+<item>
+  <title>NIST hosts meeting of O-RAN Alliance security experts</title>
+  <link>https://www.nist.gov/news-events/news/2024/05/nist-hosts-meeting-o-ran-alliance-security-experts
+  <description>  NIST's Wireless Networks Division , in collaboration with the National Cybersecurity Center of Excellence , hosted an interim meeting of the O-RAN Alliance's Security Working Group April 29 - May 2. The event brought together over 60 security experts
+
+</description>
+  <pubdate>Mon, 06 May 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Doug Montgomery</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1847661</guid>
+    </item>
+<item>
+  <title>MBE &amp;amp; QIF Summit 2024</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/mbe-qif-summit-2024
+  <description>  The MBE Summit has brought academia, government, and industry experts together for over 10 years to share the challenges, implementation issues, and lessons learned in design, manufacturing, quality assurance, and sustainment of products and
+
+</description>
+  <pubdate>Tue, 16 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rosemary Astheimer</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1846801</guid>
+    </item>
+<item>
+  <title>The Big Quantum Chill: NIST Scientists Modify Common Lab Refrigerator to Cool Faster With Less Energy</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/big-quantum-chill-nist-scientists-modify-common-lab-refrigerator-cool
+  <description>  By modifying a refrigerator commonly used in both research and industry, researchers at the National Institute of Standards and Technology (NIST) have drastically reduced the time and energy required to cool materials to within a few degrees above
+
+</description>
+  <pubdate>Tue, 23 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Pamela L Corey</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1846311</guid>
+    </item>
+<item>
+  <title>Spotlight: Building the Next Generation of Quantum Computers and Networks With Tasshi Dennis</title>
+  <link>https://www.nist.gov/news-events/news/2024/04/spotlight-building-next-generation-quantum-computers-and-networks-tasshi
+  <description>  When NIST scientist Tasshi Dennis first encountered quantum physics as a student, he was skeptical it would ever amount to any practical applications. Little did he know that decades later, he would be at the forefront of NIST's efforts to build the
+
+</description>
+  <pubdate>Mon, 15 Apr 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Sarah Henderson</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1846226</guid>
+    </item>
+<item>
+  <title>Balloting of IEEE 3388 Standard for the Performance Assessment of Industrial Wireless Systems</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/balloting-ieee-3388-standard-performance-assessment-industrial-wireless
+  <description>  The IEEE draft standard, P3388 , titled â€œStandard for the Performance Assessment of Industrial Wireless Systems,â€ has been submitted for IEEE Standards Association balloting. Under the leadership of NISTâ€™s Rick Candell, the P3388 working group
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845736</guid>
+    </item>
+<item>
+  <title>NIST Automated Vehicles Team Visits Virginia Tech Transportation Institute to Discuss Collaborative Efforts</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/nist-automated-vehicles-team-visits-virginia-tech-transportation-institute
+  <description>  On February 28-29, 2024, the NIST Automated Vehicles team , representing multiple NIST laboratories, visited the Virginia Tech Transportation Institute (VTTI) site in Blacksburg, VA. The program for the two-day meeting included presentations
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845731</guid>
+    </item>
+<item>
+  <title>SAE Establishes Exploratory Working Group to Develop Automated Vehicles â€˜Usageâ€™ Concept</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/sae-establishes-exploratory-working-group-develop-automated-vehicles-usage
+  <description>  What city infrastructure could be used or developed to support automated vehicles (AVs) is a recent topic of discussion in the AV research community. NIST researcher Dr. Edward Griffor organized a half-day session on this topic of Digital
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845726</guid>
+    </item>
+<item>
+  <title>NIST Researcher Presents Simulation-Based Approach to Assess Condition Monitoring-Enabled Maintenance in Manufacturing</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/nist-researcher-presents-simulation-based-approach-assess-condition
+  <description>  At the 2023 International Conference on System Reliability and Safety (ICSRS) in Bologna, Italy, NIST researcher Mehdi Dadfarnia presented research findings that aim to help manufacturers understand the risks and benefits of integrating AI-based
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845721</guid>
+    </item>
+<item>
+  <title>NIST Researchers Present to NASAâ€™s Jet Propulsion Laboratory on Systems Analysis Integration</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/nist-researchers-present-nasas-jet-propulsion-laboratory-systems-analysis
+  <description>  NISTâ€™s Systems Analysis Integration (SAI) project was invited to present its research to the NASA Jet Propulsion Laboratory (JPL) Systems Engineering Solutions Group and members of the Open Model Based Engineering Environment project (OpenMBEE), an
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845711</guid>
+    </item>
+<item>
+  <title>NIST Researchers Publish New Libraries for SysPyS Modeling and Simulation in Manufacturing</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/nist-researchers-publish-new-libraries-syspys-modeling-and-simulation
+  <description>  NIST published Physical Component Libraries for SysPhS Modeling and Simulation in Manufacturing , a NIST interagency report (NIST IR 8490) by Charlie Manion, Conrad Bock, and Raphael Barbau that significantly expands the capabilities of the SysML
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845706</guid>
+    </item>
+<item>
+  <title>NIST Contributes to New Modeling Capability in ISO Product Data Interoperability Standard</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/nist-contributes-new-modeling-capability-iso-product-data-interoperability
+  <description>  In January 2024, NIST researchers Allison Barnard Feeney and Rosemary Astheimer worked with Ben Urick (nVariate) and Thomas Thurman (TRThurman Consulting) to implement a hybrid boundary-representation (b-rep) modeling capability in ISO 10303 Product
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845701</guid>
+    </item>
+<item>
+  <title>Last Chance to Register for Virtual Participation in NIST Named Data Networking Community Meeting</title>
+  <link>https://www.nist.gov/news-events/news/2024/03/last-chance-register-virtual-participation-nist-named-data-networking
+  <description>  NIST is hosting the Named Data Networking (NDN) Community Meeting 2024 as a hybrid meeting on March 6-7, 2024. NDNComm provides a community forum to discuss the state of NDN protocols, software, testbed, and its application to various network
+
+</description>
+  <pubdate>Fri, 01 Mar 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1845696</guid>
+    </item>
+<item>
+  <title>NIST Launches Exploratory Digital Twins Study</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/nist-launches-exploratory-digital-twins-study
+  <description>  Digital Twins represent a growing global marketplace valued at over $8.6 billion in 2022 and forecasted to reach $138 billion by 2030. The NIST internal Strategic and Emerging Research Initiative (SERI) program has provided Fiscal Year 2024 (FY24)
+
+</description>
+  <pubdate>Mon, 01 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1838626</guid>
+    </item>
+<item>
+  <title>NIST Research Leader Applies the NIST Cyber-Physical-Systems (IoT) Framework to AI Communications for Business</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/nist-research-leader-applies-nist-cyber-physical-systems-iot-framework-ai
+  <description>  In the recently published Research Handbook on AI and Communications , NIST researcher Dr. Edward Griffor, with academic collaborators, describes the importance of the NIST Cyber-Physical Systems (IoT) Framework for artificial intelligence (AI) in
+
+</description>
+  <pubdate>Mon, 01 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1838621</guid>
+    </item>
+<item>
+  <title>University, NIST Researchers Create Residential Building Models to Evaluate Fairness of Electricity Tariffs</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/university-nist-researchers-create-residential-building-models-evaluate
+  <description>  The increased adoption of energy technologies like smart meters, solar panels, and battery storage has led to a rise in electricity pricing plans with costs that vary based on the time of day or energy usage. The impact of these pricing plans on both
+
+</description>
+  <pubdate>Mon, 01 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1838616</guid>
+    </item>
+<item>
+  <title>NIST Hosts Colloquium Speaker on Autonomous Vehicles</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/nist-hosts-colloquium-speaker-autonomous-vehicles
+  <description>  On January 18, 2024, NIST welcomed Dr. Paul Perrone, Founder and CEO of Perrone Robotics, Inc., to give a NIST Colloquium presentation on â€œ Autonomous Vehicles: The Worldâ€™s Most Complicated Technical Problem .â€ During his visit, Perrone had
+
+</description>
+  <pubdate>Mon, 01 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1838611</guid>
+    </item>
+<item>
+  <title>CTL Collaborates with Korea Research Institute of Standards and Science on Quantum Computing</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/ctl-collaborates-korea-research-institute-standards-and-science-quantum
+  <description>  On January 29, 2024, representatives of NIST and the Republic of Korea's government metrology agency â€“ the Korea Research Institute of Standards and Science (KRISS)â€“ signed an amendment to an existing memorandum of understanding to include
+
+</description>
+  <pubdate>Tue, 30 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>Anne Lane</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1837971</guid>
+    </item>
+<item>
+  <title>NIST is Requesting Public Input on Published Strategic Plan for Smart Cities Program</title>
+  <link>https://www.nist.gov/news-events/news/2024/01/nist-requesting-public-input-published-strategic-plan-smart-cities-program
+  <description>  The Global Community Technology Challenge (GCTC) is a U.S. smart cities and communities program led by the Smart Connected Systems Division of the National Institute of Standards and Technology (NIST). The GCTC was formed in 2014 as a partnership of
+
+</description>
+  <pubdate>Thu, 25 Jan 2024 12:00:00 +0000</pubdate>
+    <dc:creator>David A. Wollman</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1837666</guid>
+    </item>
+<item>
+  <title>Transformational Networks and Services Group Hosts International Collaborators at NIST</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/transformational-networks-and-services-group-hosts-international
+  <description>  On November 16, 2023, NISTâ€™s Robert Bohn and colleagues in NISTâ€™s Transformational Networks and Services (TNS) group hosted an international team of government and industry collaborators from South Korea and Germany to discuss current updates with
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835616</guid>
+    </item>
+<item>
+  <title>NIST Industrial Wireless Systems Team Participates in ASTM F45 Committee Panel Discussion</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-industrial-wireless-systems-team-participates-astm-f45-committee-panel
+  <description>  NISTâ€™s Rick Candell and Mohamed Hany were invited to participate in the ASTM F45.04 Robotics, Automation, and Autonomous Systems panel discussion on Communication and Interoperability on November 1, 2023. Rick Candell fielded questions regarding the
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835611</guid>
+    </item>
+<item>
+  <title>GCTC Smart City Projects Presented at Smart Cities Conference and Workshop</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/gctc-smart-city-projects-presented-smart-cities-conference-and-workshop
+  <description>  On November 28, 2023, the NIST Global Community Technology Challenge ( GCTC) presented three smart city projects on a panel at the Smart Cities Connect conference in Washington, D.C. The citiesâ€™ projects were representative of city efforts to enhance
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835606</guid>
+    </item>
+<item>
+  <title>NIST Supports Composite Materials Standards Harmonization</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-supports-composite-materials-standards-harmonization
+  <description>  CTLâ€™s Smart Connected Manufacturing Systems Group and the Longterm Archiving and Retrieval (LOTAR) Consortium have supported multi-year efforts to harmonize composite material standards. ASME Y14.37 enables engineering practices for the definition of
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835601</guid>
+    </item>
+<item>
+  <title>Working With Workspace Words: NIST Helps Compose Technical Language Processing Tutorial at PHM 23</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/working-workspace-words-nist-helps-compose-technical-language-processing
+  <description>  NIST helped to foster awareness, debate, and education at the Technical Language Processing (TLP) Tutorial of the 15 th Annual Conference of the Prognostics and Health Management (PHM) Society in Utah. This event resulted from the collaborative
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835596</guid>
+    </item>
+<item>
+  <title>NIST Researcher Presents on Use of SimPROCESD Software to Model Manufacturing Production and Maintenance</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-researcher-presents-use-simprocesd-software-model-manufacturing
+  <description>  At the 2023 INFORMS Annual Meeting, NIST researcher Mehdi Dadfarnia presented research findings based on use of NIST-developed SimPROCESD software, which can model and simulate manufacturing configurations and maintenance policies for production and
+
+</description>
+  <pubdate>Fri, 01 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Rachel Kotary</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1835591</guid>
+    </item>
+<item>
+  <title>2024 IEEE Conference on Computational Imaging Using Synthetic Apertures (CISA)</title>
+  <link>https://www.nist.gov/news-events/events/2024-ieee-conference-computational-imaging-using-synthetic-apertures-cisa
+  <description>  Join us for a co-hosted event with the IEEE Signal Processing Society, the IEEE Synthetic Aperture Standards Committee, and the IEEE Synthetic Aperture Technical Working Group at the NIST Boulder campus. Researchers and engineers will engage in
+
+</description>
+  <pubdate>Mon, 20 May 2024 02:00:00 -0400</pubdate>
+    <dc:creator>Pauline Truong</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1834581</guid>
+    </item>
+<item>
+  <title>5x5: The Public Safety Innovation Summit</title>
+  <link>https://www.nist.gov/news-events/events/5x5-public-safety-innovation-summit
+  <description>  5x5 â€• the confirmation of a strong and clear signal â€• and the place to make your voice heard and drive public safety communications forward. In 2024, the FirstNet Authority and the National Institute of Standards and Technologyâ€™s Public Safety
+
+</description>
+  <pubdate>Tue, 25 Jun 2024 00:00:00 -0400</pubdate>
+    <dc:creator>Crissy Robinson</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1834271</guid>
+    </item>
+<item>
+  <title>NIST Researchers Installed a New Quantum Voltage Standard in Spain</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-researchers-installed-new-quantum-voltage-standard-spain
+  <description>  NIST â€¯delivered the first NIST Standard Reference Instrument (SRI) to Spainâ€™s oldest calibration laboratory, theâ€¯ National Institute of Aerospace Technology (INTA) . Theâ€¯ NIST SRI 6000 â€¯is the Programmable Josephson Voltage Standard (PJVS) in its
+
+</description>
+  <pubdate>Thu, 21 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Anne Lane</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1833836</guid>
+    </item>
+<item>
+  <title>2024 PSCR UAS Portfolio Workshop</title>
+  <link>https://www.nist.gov/news-events/events/2024-pscr-uas-portfolio-workshop
+  <description>  The NIST Public Safety Communications Research (PSCR) Division is hosting a workshop on the management of cybersecurity and artificial intelligence (AI) risks for Uncrewed Aircraft Systems (UAS) in public safety. This hybrid workshop will be held at
+
+</description>
+  <pubdate>Wed, 07 Feb 2024 00:00:00 -0500</pubdate>
+    <dc:creator>Pauline Truong</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1833826</guid>
+    </item>
+<item>
+  <title>Spotlight: Feeding Your Machine Learning System With Good Data</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/spotlight-feeding-your-machine-learning-system-good-data
+  <description>  Om nom nom â€” what are you feeding your machine learning (ML) system? NIST researchers at the crossroads of communications technology and cybersecurity are working from that question. At its most basic level, ML acts in the same way your digestive
+
+</description>
+  <pubdate>Thu, 14 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Sarah Henderson</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1833681</guid>
+    </item>
+<item>
+  <title>NIST Releases NextG Wireless R&amp;amp;D Gap Analysis</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-releases-nextg-wireless-rd-gap-analysis
+  <description>  As the transition from fifth-generation wireless systems (5G) to next-generation communications systems (NextG) advances, research and development (R&amp;amp;D) communities have the chance to identify key wireless communications research gaps. Addressing
+
+</description>
+  <pubdate>Thu, 14 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Anne Lane</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1833256</guid>
+    </item>
+<item>
+  <title>NIST Researchers Help Design a Prototype Quantum Computer</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-researchers-help-design-prototype-quantum-computer
+  <description>  Researchers have created a prototype quantum computer with a record number of qubitsâ€”the analog of bits in an ordinary computerâ€”capable of performing logical operations. The feat promises to be an important step towards building a practical quantum
+
+</description>
+  <pubdate>Wed, 20 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>Pamela L Corey</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1833141</guid>
+    </item>
+<item>
+  <title>PSCR Webinar: Privacy and Public Records: Perils and possible solutions of releasing public safety records</title>
+  <link>https://www.nist.gov/news-events/events/pscr-webinar-privacy-and-public-records-perils-and-possible-solutions-releasing
+  <description>  Public safety agencies generate and store many records that are valuable to the public. Computer-aided dispatch (CAD), 911 calls, and first responder reports all contain information that can be valuable to the public and policy makers. Yet, these
+
+</description>
+  <pubdate>Wed, 06 Dec 2023 15:00:00 -0500</pubdate>
+    <dc:creator>Elizabeth Hottenstein</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1832801</guid>
+    </item>
+<item>
+  <title>NIST Releases easyEXPRESS â€“ its First Official Visual Studio Code Extension</title>
+  <link>https://www.nist.gov/news-events/news/2023/12/nist-releases-easyexpress-its-first-official-visual-studio-code-extension
+  <description>  In October 2023, NIST researchers released a preview version of easyEXPRESS, a tool to help EXPRESS-based standard developers. This release also marks an important milestone for NIST as its first official Visual Studio Code extension, available for
+
+</description>
+  <pubdate>Wed, 06 Dec 2023 12:00:00 +0000</pubdate>
+    <dc:creator>David A. Wollman</dc:creator>
+    <guid ispermalink="true">https://www.nist.gov/node/1832666</guid>
+    </item>
+
+  </atom:link></description></channel>
+</rss>"
+ https://www.nist.gov/news-events/Advanced%20communications/rss.xml#:~:text=%3C%3Fxml%20version%3D%221.0,item%3E%0A%0A%20%20%3C/channel%3E%0A%3C/rss%3E</body>
