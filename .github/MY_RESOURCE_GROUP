@@ -1,0 +1,5 @@
+az webapp create \
+    --name MY_WEBAPP_NAME \
+    --plan MY_APP_SERVICE_PLAN \
+    --resource-group MY_RESOURCE_GROUP \
+    --runtime "NODE|14-lts"
